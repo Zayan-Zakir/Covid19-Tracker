@@ -1,0 +1,21 @@
+.covid-19-chart-place {
+  margin-left: 100px !important;
+  text-align: center !important;
+}
+
+ .covid-19-legend{
+  margin-left: 100px !important;
+  text-align: center !important;
+}
+
+.covid-19-confirmed{
+font-size:20px !important; 
+}
+
+.covid-19-recovered{
+font-size:20px !important;
+}
+
+.covid-19-deaths{
+  font-size:20px !important;
+}
